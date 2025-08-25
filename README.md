@@ -62,13 +62,13 @@ Atualmente trabalhando com **JavaScript**, **React**, **Vue.js**, explorando as 
 - 🚀 Sempre explorando novas tecnologias e frameworks
 - 📚 Focado em aprendizado contínuo e melhores práticas de desenvolvimento
 - 🌟 Acredito que código limpo e bem documentado faz toda a diferença
-- ☕ Desenvolvedor movido a café e desafios técnicos
+- ☕ Desenvolvedor movido a café, música e desafios técnicos
 
 ## 🎓 Formação
 
 **🏫 SENAI-RJ - Serviço Nacional de Aprendizagem Industrial**
 - **Curso de Backend** - Concluído
-- **Formação Anterior em Backend** - Concluída
+- **Formação Anterior em Frontend** - Concluída
 - **Tecnologias estudadas:** Python, Django, MySQL, Bootstrap, View
 
 ---
